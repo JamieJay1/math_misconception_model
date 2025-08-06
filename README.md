@@ -1,1 +1,4 @@
 # math_misconception_model
+ The aim of the project is to develop an NLP model driven by ML to accurately predict students’ potential math misconceptions based on student explanations in open-ended responses. This solution will suggest candidate misconceptions for these explanations, making it easier for teachers to identify and address students’ incorrect thinking, which is critical to improving student math learning.
+
+For example, students often think 0.355 is larger than 0.8 because they incorrectly apply their knowledge of whole numbers to decimals, reasoning that 355 is greater than 8. Students develop a range of misconceptions in math, sometimes because they incorrectly apply prior knowledge to new content and sometimes because they are trying to make sense of new information but misunderstand it. 
